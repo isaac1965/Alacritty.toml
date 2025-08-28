@@ -4,8 +4,8 @@
   <img src="https://i.imgur.com/uSVMDj4.png" alt="" width=100>
 </p>
 
->[!TIP]
-> ### Scrolling fastest with keyboard
+
+## Scrolling fastest with keyboard
 
 ```sh
 [scrolling]
