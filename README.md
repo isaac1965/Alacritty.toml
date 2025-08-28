@@ -4,7 +4,8 @@
   <img src="https://i.imgur.com/uSVMDj4.png" alt="" width=100>
 </p>
 
-<h2 align="center">Scrolling</h2>
+>[!TIP]
+> <h2 align="center">Scrolling fastest with keybord</h2>
 
 ```sh
 [scrolling]
