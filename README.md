@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/uSVMDj4.png" alt="" width=100>
 </p>
 
-### Scrolling
+## Scrolling
 
 ```sh
 [scrolling]
