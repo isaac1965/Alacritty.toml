@@ -5,7 +5,7 @@
 </p>
 
 
-## Scrolling fastest with keyboard
+<h3 align="center">Scrolling fastest with keyboard</h3>
 
 ```sh
 [scrolling]
