@@ -121,15 +121,13 @@ mods = "Control"
 
 [[keyboard.bindings]]
 action = "ScrollPageUp"
-key = "PageUp"
-mode = "~Alt"
-mods = "None"
+key = "k"
+mods = "Control|Shift"
 
 [[keyboard.bindings]]
 action = "ScrollPageDown"
-key = "PageDown"
-mode = "~Alt"
-mods = "None"
+key = "j"
+mods = "Control|Shift"
 
 [[keyboard.bindings]]
 action = "ScrollToTop"
