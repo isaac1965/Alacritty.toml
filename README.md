@@ -5,7 +5,7 @@
 </p>
 
 >[!TIP]
-> <h2 align="left">Scrolling fastest with keybord</h2>
+> ### Scrolling fastest with keyboard
 
 ```sh
 [scrolling]
