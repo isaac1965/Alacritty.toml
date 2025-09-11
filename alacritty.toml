@@ -101,8 +101,8 @@ mods = "None"
 
 [[keyboard.bindings]]
 action = "Paste"
-key = "Paste"
-mods = "None"
+key = "P"
+mods = "Shift"
 
 [[keyboard.bindings]]
 action = "Copy"
